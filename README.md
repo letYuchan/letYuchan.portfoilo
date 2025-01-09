@@ -1,7 +1,7 @@
 # 컴퓨터 관련 과목 및 성적 요약
 
 ## 학점 요약
-- **총 학점**: 51학점
+- **총 학점**: 66학점
 - **평균 평점**: 3.90 / 4.5
 
 ---
@@ -45,8 +45,27 @@
   - **성적**: B0 (3.0/4.5)
   - **내용**: 디지털 회로 설계, 논리 게이트, 플립플롭
  
-#### 2학기 (2024/9, 현재 진행중)
-**알고리즘**, **웹프로그래밍**, **오픈소스소프트웨어**, **데이터베이스**, **데이터통신** 
+#### 2학기 (2024/9)
+- **웹프로그래밍**
+  - **학점**: 3학점
+  - **성적**: A (4.0/4.5)
+  - **내용**: VanilaJs, Html, CSS 및 Term 프로젝트 진행
+- **데이터통신**
+  - **학점**: 3학점
+  - **성적**: B0 (3.0/4.5)
+  - **내용**: 통신 기본 원리, 표준 모델, layer Architecture, 실생활에서의 작동원리
+- **Open Source SoftWare**
+  - **학점**: 3학점
+  - **성적**: A+ (4.5/4.5)
+  - **내용**: Python 문, Numpy/Pandas/Tensorflow 등을 통한 오픈소스 활용과제, 오픈소스 Term Project 진행
+- **알고리즘**
+  - **학점**: 3학점
+  - **성적**: B+ (3.5/4.5)
+  - **내용**: Greedy, Heuristic, Divide and Conquer, Dynamic Programming etc.
+- **Database**
+  - **학점**: 3학점
+  - **성적**: A+ (4.0/4.5)
+  - **내용**: DBMS, DML/DCL/DDL, Relational Algebra, Integrity constraints, Transaction States, Physical Storage structure, RAID, Nomalization
 
 ---
 
@@ -54,6 +73,7 @@
 
 ### 활동내역
 - **GDG on Campus: 교내에 설치된 구글 산하 대학생 개발자 동아리 모임, 프론트 관련 기술 습득, 타 대학과 커뮤니케이션, 연합활동, 협업 프로젝트 등
+- **flowww(현재재직중): Frontend&WebPublisher 
 ### 자격증
 - **워드프로세서 1급**
 ### 공모전/수상경력
